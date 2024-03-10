@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [kevinsorto.com](kevinsorto.com)
 
-- 📫 How to reach me **kevinhsorto95@gmail.com**
+- 📫 How to reach me **me@kevinsorto.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
