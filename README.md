@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [kevinsorto.com](kevinsorto.com)
 
-- 📝 I regularly write articles on [https://kevstechinsights.blog/](https://kevstechinsights.blog/)
+- 📝 I regularly write articles on [https://kevstechinsights.blog/](https://kevinsorto.com/blog)
 
 - 📫 How to reach me **me@kevinsorto.com**
 
